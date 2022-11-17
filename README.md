@@ -1,5 +1,7 @@
 # MultisigHW
-Changed function 
+Changed proposing and executing functions
+Can't propose to send over 66 eth (this thing is not nessesary)
+Can't execute TX if balance changes for more than 66 eth
 ```
 --- a/contracts/MultisigWallet.sol
 +++ b/contracts/MultisigWallet.sol
