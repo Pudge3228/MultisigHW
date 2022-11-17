@@ -1,5 +1,5 @@
 # MultisigHW
-
+Changed function 
 ```
 --- a/contracts/MultisigWallet.sol
 +++ b/contracts/MultisigWallet.sol
